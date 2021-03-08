@@ -2,7 +2,7 @@
 
 This project contains sample code to demonstrate advanced features provided by the Agora Video SDK.
 
-  
+## Note March 8th, 2021 - this repo has been merged into [Agora Unity QuickStart](https://github.com/AgoraIO/Agora-Unity-Quickstart), please get the latest update there
 
 ## Main scene view
 
